@@ -1,7 +1,7 @@
 # crud-employee
 A simple CRUD application using Play! Framework, Scala, Angular JS and Mongo DB
 
-# Still needs to be updated.
+
 
 The application needs the following to be install before you run it.
 - Mongo DB [v3.4.7]
